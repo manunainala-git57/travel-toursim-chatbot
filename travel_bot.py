@@ -135,7 +135,7 @@ def main():
         return
     df = preprocess_data(df)
     vectorizer, place_vectors = create_vectorizer(df)
-    API_KEY = "your_API_key"
+    API_KEY = "AIzaSyCBeGF66OG7MtMDZwdWAxwsD-LkVMGXtjA"
     if not API_KEY:
         st.error("API key not found.")
         return
