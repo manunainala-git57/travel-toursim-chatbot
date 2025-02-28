@@ -14,7 +14,7 @@ A **Streamlit-based AI-powered chatbot** that helps users find travel destinatio
 
 - **Frontend**: [Streamlit](https://streamlit.io/)  
 - **Backend**: Python  
-- **NLP & AI**: `scikit-learn`, `openai` (or other generative models)  
+- **NLP & AI**: `scikit-learn`, `gemini genai`  
 - **Data Handling**: `pandas`  
 
 ## 📦 Installation  
