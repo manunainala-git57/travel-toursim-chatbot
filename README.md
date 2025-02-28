@@ -21,5 +21,5 @@ A **Streamlit-based AI-powered chatbot** that helps users find travel destinatio
 
 1️⃣ Clone this repository  
 ```bash
-git clone 
+git clone https://github.com/manunainala-git57/travel-toursim-chatbot.git
 cd travel-chatbot
